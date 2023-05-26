@@ -1,0 +1,15 @@
+arxiv==1.4.7
+frontend==0.0.3
+numpy==1.24.3
+openai==0.27.6
+pandas==2.0.1
+PyMuPDF==1.22.3
+requests==2.24.0
+sentencepiece==0.1.99
+slack-bolt==1.18.0
+slack-sdk==3.21.3
+tokenizers==0.13.3
+torch==2.0.1
+tqdm==4.65.0
+transformers==4.29.1
+jupyterlab
