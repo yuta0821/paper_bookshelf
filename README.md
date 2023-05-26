@@ -1,5 +1,7 @@
-# Paper Database
+# Paper Bookshelf
 Qiitaへ投稿した記事で紹介したコードの全文です
+
+[毎日の論文サーベイを手軽に！ChatGPTを活用したSlackへの3行要約通知とNotionデータベース連携](https://qiita.com/yuta0821/items/2edf338a92b8a157af37)
 
 # Usage
 ## Install
